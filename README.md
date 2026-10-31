@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**sapanamohdali/sapanamohdali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sapana! 👋
 
-Here are some ideas to get you started:
+### Computer Science Engineering Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a Computer Science and Engineering student passionate about building practical technology solutions and exploring innovative ideas.
+
+### 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 Interested in Software Development and Artificial Intelligence
+- 🤖 Exploring Machine Learning and Computer Vision
+- 🔧 Experience with Python, C, Java and Arduino
+- 🌱 Continuously learning and building projects
+- 🎯 Interested in software development and technology-driven solutions
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, C, Java
+- **AI & ML:** Machine Learning, Deep Learning, YOLO
+- **Computer Vision:** OpenCV, PyTorch
+- **Backend:** FastAPI
+- **Tools:** Git, GitHub, Streamlit
+- **Hardware:** Arduino, Embedded Systems
+
+### 🚀 Featured Projects
+
+1. AI-Based Wildlife–Vehicle Collision Detection System
+2. AI-Powered Mock Interview Bot
+3. Arduino-Based Smart Pet Feeder
+4. Robotic Arm
+5. Mini Refrigerator
+
+### 📫 Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/sapana-mohdali-7842a9298
+- GitHub:https://github.com/sapanamohdali
+
+---
+⭐ Thanks for visiting my profile!
